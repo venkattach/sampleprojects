@@ -1,0 +1,9 @@
+name: aig_tomcat_test
+title: Validation profile for aig_apache cookbook for centos and ubuntu
+maintainer: aigTech LLC
+copyright: aigTech LLC
+copyright_email: chef@aigtechcorp.lab
+license: All Rights Reserved
+summary: An Profile for validating actions in the aig_apache cookbook for centos and ubuntu
+version: 0.1.0
+

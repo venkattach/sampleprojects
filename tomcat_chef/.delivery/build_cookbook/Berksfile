@@ -1,0 +1,7 @@
+source 'https://plgsaschefsm01.r1-core.r1.aig.net/'
+
+metadata
+
+group :delivery do
+  cookbook 'test', path: './test/fixtures/cookbooks/test'
+end
